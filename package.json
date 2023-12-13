@@ -1,0 +1,6 @@
+{
+  "name": "tag-across-the-world",
+  "dependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
